@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=chiranjivee)
 
-- 🔭  I’m currently working on a hyper large scale distributed systems.
-- 🌱  I’m currently learning distributed systems.
+- 🔭  I’m currently working on hyper large scale distributed systems.
 - 💬  Ask me about software engineering and distributed systems.
 - 📫  How to reach me: You can reach me out at cjthehacker7@gmail.com
 - 😄  Nickname: CJ
