@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭  I’m currently working on hyper large scale distributed systems.
 - 💬  Ask me about software engineering and distributed systems.
-- 📫  How to reach me: You can reach me out at cjthehacker7@gmail.com
+- 📫  How to reach me: You can reach me out at chiranjivee.thakur@gmail.com
 - 😄  Nickname: CJ
 - ⚡   Fun fact: I am coding when I am awake.
 
